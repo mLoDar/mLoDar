@@ -7,8 +7,6 @@
 
 <br>
 
----
-
 ## :hammer_and_wrench: Languages and tools I am familiar with:
 
 <div>
@@ -22,8 +20,6 @@
 </div>
 
 <br>
-
----
 
 ## :pushpin: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mLoDar&theme=one-dark-pro&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
