@@ -1,5 +1,3 @@
-# mLoDar
-
 ## :speech_balloon: About Me:
 
 - I am 19 years old 
