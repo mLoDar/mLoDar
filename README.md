@@ -5,8 +5,6 @@
 - I am able to solve a [rubik's cube](https://www.gancube.com/) within a minute
 - Currently I make a vocational training as a business IT specialist
 
-<br>
-
 ## :hammer_and_wrench: Languages and tools I am familiar with:
 
 <div>
