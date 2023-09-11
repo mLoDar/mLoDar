@@ -3,7 +3,7 @@
 - I am 19 years old 
 - I visit a technical college
 - I am able to solve a [rubik's cube](https://www.gancube.com/) within 30 seconds
-- Currently I make a vocational training as a business IT specialist
+- Currently in training as a business IT specialist
 
 ## :hammer_and_wrench: Languages and tools I am familiar with:
 
