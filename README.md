@@ -1,9 +1,5 @@
-## :speech_balloon: About Me:
-
-- I am 19 years old 
-- I visit a technical college
-- I am able to solve a [rubik's cube](https://www.gancube.com/) within 30 seconds
 - Currently in training as a business IT specialist
+- I am able to solve a [rubik's cube](https://www.gancube.com/) within 30 seconds
 
 ## :hammer_and_wrench: Languages and tools I am familiar with:
 
