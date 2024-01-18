@@ -1,6 +1,8 @@
 - Currently in training as a business IT specialist
 - I am able to solve a [rubik's cube](https://www.gancube.com/) within 30 seconds
 
+<br>
+
 ## :hammer_and_wrench: Languages and tools I am familiar with:
 
 <div>
