@@ -1,13 +1,18 @@
 <p align="center">
   Visitor count
-  <br><br>
+  <br>
+  <br>
   <img src="https://profile-counter.glitch.me/mLoDar/count.svg"/>
   <br>
   <br>
-  <br>
   <img src="https://streak-stats.demolab.com?user=mLoDar&theme=one-dark-pro&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak"/>
-  <br>
-  <br>
+</p>
+
+<br>
+<hr>
+<br>
+
+<p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
