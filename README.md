@@ -4,6 +4,8 @@
 - I am able to solve a [rubik's cube](https://www.gancube.com/) within 30 seconds
 
 <br>
+---
+<br>
 
 ## :hammer_and_wrench: Languages and tools I am familiar with:
 
@@ -18,6 +20,23 @@
 </div>
 
 <br>
+---
+<br>
 
-## :pushpin: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=mLoDar&theme=one-dark-pro&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
+## :pushpin: My Stats:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mLoDar&theme=one-dark-pro&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" />  
+</p>
+
+<br>
+---
+<br>
+
+## :eyes: Visitor count:
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/mLoDar/count.svg"/>
+</p>
+
+<br>
+---
+<br>-
