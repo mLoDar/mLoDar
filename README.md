@@ -19,14 +19,13 @@
 
 <br>
 
-## :pushpin: My Stats:
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mLoDar&theme=one-dark-pro&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" />  
 </p>
 
 <br>
 
-## :eyes: Visitor count:
-<p align="center"> 
+<p align="center">
+  Visitor count<br>
   <img src="https://profile-counter.glitch.me/mLoDar/count.svg"/>
 </p>
