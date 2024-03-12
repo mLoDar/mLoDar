@@ -4,8 +4,6 @@
 - I am able to solve a [rubik's cube](https://www.gancube.com/) within 30 seconds
 
 <br>
----
-<br>
 
 ## :hammer_and_wrench: Languages and tools I am familiar with:
 
@@ -20,8 +18,6 @@
 </div>
 
 <br>
----
-<br>
 
 ## :pushpin: My Stats:
 <p align="center">
@@ -29,14 +25,8 @@
 </p>
 
 <br>
----
-<br>
 
 ## :eyes: Visitor count:
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/mLoDar/count.svg"/>
 </p>
-
-<br>
----
-<br>-
