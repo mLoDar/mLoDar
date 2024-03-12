@@ -4,13 +4,17 @@
   <img src="https://profile-counter.glitch.me/mLoDar/count.svg"/>
 </p>
 
+<hr>
 <br>
+<hr>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mLoDar&theme=one-dark-pro&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak" />  
 </p>
 
+<hr>
 <br>
+<hr>
 
 - Currently in training as a business IT specialist
 - I am able to solve a [rubik's cube](https://www.gancube.com/) within 30 seconds
