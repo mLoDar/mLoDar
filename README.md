@@ -14,7 +14,6 @@
 <h3 align="center">Tools and languages I use:</h3>
 
 <br>
-<br>
 
 <p align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
