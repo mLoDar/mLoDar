@@ -11,13 +11,12 @@
 <br>
 <hr>
 
-<p align="center">
-</p>
+<h3 align="center">Tools and languages I use:</h3>
+
+<br>
+<br>
 
 <p align="center">
-  <h3>Tools and languages I use:</h3>
-  <br>
-  <br>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" **alt="C#" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
