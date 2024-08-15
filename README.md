@@ -23,9 +23,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
 </p>
-
-<hr>
-<br>
-
-- Currently in training as a business IT specialist
-- I am able to solve a [rubik's cube](https://www.gancube.com/) within 30 seconds
