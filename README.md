@@ -8,7 +8,7 @@
   <img src="https://streak-stats.demolab.com?user=mLoDar&theme=one-dark-pro&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=500" alt="GitHub Streak"/>
 </p>
 
-<hr>
+---
 
 <h3 align="center">Tools and languages I use:</h3>
 
