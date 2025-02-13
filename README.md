@@ -1,14 +1,11 @@
 <p align="center">
-  Visitor count
-  <br>
-  <br>
-  <img src="https://profile-counter.glitch.me/mLoDar/count.svg"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mLoDar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="mLoDar's GitHub Stats" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mLoDar&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="mLoDar's GitHub Stats" />
+  <img src="https://github.com/mLoDar/mLoDar/blob/main/github-user-contribution.svg" alt="mLoDar's Snake contribution" />
 </p>
 
 ---
