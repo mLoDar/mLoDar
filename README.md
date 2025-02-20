@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/mLoDar/mLoDar/blob/main/github-user-contribution.svg" alt="mLoDar's Snake contribution" />
+  <img src="https://github.com/mLoDar/mLoDar/blob/output/github-contribution-grid-snake.svg" alt="mLoDar's Snake contribution" />
 </p>
 
 ---
